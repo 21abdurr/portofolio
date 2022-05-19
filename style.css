@@ -129,7 +129,7 @@ footer {
 }
 
 footer div a {
-    /* background-color: rgb(0, 0, 0); */
+    background-color: rgb(0, 0, 0);
     border-radius: 50%;
     height: 82px;
     width: 82px;
